@@ -1,3 +1,5 @@
 generics
 hospitalnames
 venv
+target
+Cargo.lock
