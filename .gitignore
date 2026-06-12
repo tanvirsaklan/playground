@@ -1,5 +1,5 @@
 generics
 hospitalnames
-venv
-target
-Cargo.lock
+**/venv/
+**/target/
+**/Cargo.lock
